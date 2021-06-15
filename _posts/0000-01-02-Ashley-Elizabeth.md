@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![funny dog meme](https://images.app.goo.gl/oEwDZkTiodnLwdbSA)
 Use the left arrow to go back!
